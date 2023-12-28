@@ -1,0 +1,14 @@
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\bin\Debug\net8.0\КурсоваВ№5.exe
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\bin\Debug\net8.0\КурсоваВ№5.deps.json
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\bin\Debug\net8.0\КурсоваВ№5.runtimeconfig.json
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\bin\Debug\net8.0\КурсоваВ№5.dll
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\bin\Debug\net8.0\КурсоваВ№5.pdb
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\obj\Debug\net8.0\КурсоваВ№5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\obj\Debug\net8.0\КурсоваВ№5.AssemblyInfoInputs.cache
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\obj\Debug\net8.0\КурсоваВ№5.AssemblyInfo.cs
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\obj\Debug\net8.0\КурсоваВ№5.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\obj\Debug\net8.0\КурсоваВ№5.dll
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\obj\Debug\net8.0\refint\КурсоваВ№5.dll
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\obj\Debug\net8.0\КурсоваВ№5.pdb
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\obj\Debug\net8.0\КурсоваВ№5.genruntimeconfig.cache
+C:\Users\777\source\repos\КурсоваВ№5\КурсоваВ№5\obj\Debug\net8.0\ref\КурсоваВ№5.dll
